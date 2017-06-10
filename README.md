@@ -1,3 +1,6 @@
 # README
 
-five min project testing with Rspec , Capybara tools
+* five min project testing with Rspec , Capybara tools
+
+* Added author to post 
+
